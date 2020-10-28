@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "newsbot-hijl",
+  "private_key_id": "defd2491fe7811b8c2f9ae1803fb572a437855f5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDsFIg60BtLTU1m\n5YTdhG2FWtA5Qx8GmyiN6MT1WZcvhdaD6hGrt62S8RBRhel5+kSG/24A/TkCx3sv\nkFuF9HnlsrsDUZCycOxU7+8A1NSEsFsvDKCgYone1tpdYPxsuD796knchDknPPz7\n3JbrOul55uqzyn63Nx5TFeA/1aW89nScQUwFW/PEkfPFASO1otdtZ/HD39k+czZR\n7N5mPkDRM4FRPRI12MggNpc/bD60zKAoyZDvHQuNGZs072LEsCP7RRVr5P5WIluD\n3B8Vn672kXqtJaKT7C3ohBjVe+1rWk0t8+CULsezffzgC/EwhhOmAB7/NtZQxmNE\ngpkx3E51AgMBAAECggEAGWB8o1vO70mENjkaTuiHEFRqeRlMurxPf++jSl9ix8Y6\ngKwW0a9ZHmhA0Y6UQhsjpiJLbBpMOE8CoCKDoBLfTpBnl2v7Yp8OXHP9LEj0fj3p\n01UnaA4nlVdhmjOMdtBYXxmB7o0dCql85UL5SxhmVAb9OC3ecKnhXduGYz4/RmA/\n1DgYzdiFCYVwpaSOQQAkO0XMwWDuzaSoFvCK3f/xkdHoaOOsPceQZ28eAua7UEmZ\ne0EAoA4CsTQtYg1Yg+Irv5qLlktJxWDgYTJB5k7KJkTF3inp59oVQjsFgJ6vJwKr\nkD2chTs4H+JzCbVInI7Bvmk7SBJkfOCn+mIMH+CI6QKBgQD/1SgoD1vkzlVwW7qP\nmlK0ctNCEIril6HDAOvEsGDj9/Wjl5fc3JK7cytzRrHiNW2QDcyKOomkBKAnkr5A\ncmxjDhPkP8aGqbR7AOPg/kFR6CPnee3pYgbbrX+NOFPpwMEFMxFiLPVp9vsYsY9l\nVIdUR7Insu1Gb1hmxTtOGB5UaQKBgQDsPBFDXCo792QW75re8e+HnTJ86P0ktW2O\nClQ5Xox10CYL62ik/kmc+DXQTybYDMLLgKN5C1lDDxtEQdbrdYi6xCLuXmO+4hHI\nx44HZgbemmsQCUyiUaEb0cmj6Rko7yZdeADIMg0ek0EvFsXLW9BLkVNYpgeRakle\n7el5fXy4LQKBgQCZsKlWH5v6AcasID8cg/5Jb23gk2WMKMHCD2yUFc2vRkgoRiqy\nQURZHiAtOXwlxCkU0GVfaTlE8o5wF6T5vIPGoi9rALE4Nv04o9lCUhxVo1rmdYZq\nnTw3fqxQ31Tx6Z1LjVlVHGM2jGxeclUN79D43bV2SfRnSv7VholRKgYWeQKBgA66\neAERH/j5JZ5gdfFseBimbl1nUVEWlqwCbNne0TcPMTARD0cqK4DD4OcJ6EwUD5kM\nfiSv1nLd4D9TM4kenNW4IM1nySQ/iAhSmMJRVCBQ1Ff9nG+KU1cer0mu4MiykFvH\nfZT9ud+sIqZC7zYMlWIAv4eJYnNogwaOIr5WWo5JAoGAFh50VCy5o3QlhjYyXrK2\ng6I1LP8zuXKq1M1UT87YsZQbHbtfIAkOF7oT5JEgMmwoaoh5KVZphace9NUC8jsO\n96YIEOVMRK+xe5lLq/TKebxQCG+/dkGIMtxHCW6+UkMtazPxpvUrLTeOFozli4o3\nq7sTjXD/E+P7Et7c+cFvR2g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kansal-news-bot@newsbot-hijl.iam.gserviceaccount.com",
+  "client_id": "106214158396034697394",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kansal-news-bot%40newsbot-hijl.iam.gserviceaccount.com"
+}
