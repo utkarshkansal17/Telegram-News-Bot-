@@ -9,7 +9,7 @@ logging.basicConfig(    format='%(asctime)s - %(name)s - %(levelname)s - %(messa
 
 logger = logging.getLogger(__name__)
 
-TOKEN = "1160702580:AAEUEPoZ-PVbF4WYqXKtP9nLUQf-8wp7CJw"
+TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 app = Flask(__name__)
 
